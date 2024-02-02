@@ -3,9 +3,9 @@
       "name": "Javier Cavedal",
       "label": "Programmer",
       "image": "./src/static/images/foto.png",
-      "email": "jvavedal@gmail.com",
+      "email": "jcavedal@gmail.com",
       "phone": "(+54) 2614162581",
-      "url": "https://",
+      "url": "https://portafolio-javier-platzi.netlify.app/",
       "summary": "A summary of Javier Cavedal…",
       "location": {
         "address": "Las Heras 1173",
@@ -14,10 +14,21 @@
         "countryCode": "AR",
         "region": "Mendoza"
       },
-      "profiles": [{
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
+      "profiles": [
+      {
+        "network": "GitHub",
+        "username": "jcavedal",
+        "url": "https://github.com/jcavedal"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Javier Cavedal",
+        "url": "https://www.linkedin.com/in/javier-cavedal-bourges-007832266/"
+      },
+      {
+        "network": "X",
+        "username": "jcavedal",
+        "url": "https://twitter.com/ChaviiCavedal"
       }]
     },
     "work": [{
