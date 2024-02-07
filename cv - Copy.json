@@ -1,0 +1,121 @@
+{
+    "basics": {
+      "name": "Javier Cavedal",
+      "label": "Programmer",
+      "image": "./src/static/images/foto.png",
+      "email": "jcavedal@gmail.com",
+      "phone": "(+54) 2614162581",
+      "url": "https://portafolio-javier-platzi.netlify.app/",
+      "summary": "A summary of Javier Cavedal…",
+      "location": {
+        "address": "Las Heras 1173",
+        "postalCode": "M 5521",
+        "city": "Guaymallén",
+        "countryCode": "AR",
+        "region": "Mendoza"
+      },
+      "profiles": [
+      {
+        "network": "GitHub",
+        "username": "jcavedal",
+        "url": "https://github.com/jcavedal"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Javier Cavedal",
+        "url": "https://www.linkedin.com/in/javier-cavedal-bourges-007832266/"
+      },
+      {
+        "network": "X",
+        "username": "jcavedal",
+        "url": "https://twitter.com/ChaviiCavedal"
+      }]
+    },
+    "work": [{
+      "name": "Company",
+      "position": "President",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "",
+      "url": "https",
+      "area": "Software Development",
+      "studyType": "Junior",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": ""
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Junior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "",
+      "keywords": [
+        "",
+        ""
+      ]
+    }],
+    "references": [{
+      "name": "",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        ""
+      ],
+      "url": ""
+    }]
+  }

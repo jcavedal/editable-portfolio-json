@@ -1,121 +1,173 @@
 {
-    "basics": {
-      "name": "Javier Cavedal",
-      "label": "Programmer",
-      "image": "./src/static/images/foto.png",
-      "email": "jcavedal@gmail.com",
-      "phone": "(+54) 2614162581",
-      "url": "https://portafolio-javier-platzi.netlify.app/",
-      "summary": "A summary of Javier Cavedal…",
-      "location": {
-        "address": "Las Heras 1173",
-        "postalCode": "M 5521",
-        "city": "Guaymallén",
-        "countryCode": "AR",
-        "region": "Mendoza"
-      },
-      "profiles": [
-      {
-        "network": "GitHub",
-        "username": "jcavedal",
-        "url": "https://github.com/jcavedal"
-      },
+  "basics": {
+    "name": "Javier Cavedal",
+    "label": "Junior Developer",
+    "image": "./src/static/images/foto.png",
+    "email": "jcavedal@gmail.com",
+    "phone": "(+54) 2614162581",
+    "url": "https://portafolio-javier-platzi.netlify.app/",
+    "summary": "Estudiante de Platzi para Desarrollador Web. Vivo en Mendoza, Argentina.",
+    "location": {
+      "address": "Las Heras 1173",
+      "postalCode": "M 5521",
+      "city": "Guaymallén",
+      "countryCode": "AR",
+      "region": "Mendoza"
+    },
+    "profiles": [
       {
         "network": "LinkedIn",
-        "username": "Javier Cavedal",
+        "username": "jcavedal",
         "url": "https://www.linkedin.com/in/javier-cavedal-bourges-007832266/"
       },
       {
         "network": "X",
         "username": "jcavedal",
         "url": "https://twitter.com/ChaviiCavedal"
-      }]
+      },
+      {
+        "network": "GitHub",
+        "username": "jcavedal",
+        "url": "https://github.com/jcavedal"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "jcavedal",
+      "position": "Position",
+      "url": "Url",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Summary",
+      "highlights": [
+        "Highlights"
+      ]
+    }],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "Url",
+    "startDate": "",
+    "endDate": "",
+    "summary": "Description…",
+    "highlights": [
+      "Highlights"
+    ]
+  }],
+  "education": [{
+    "institution": "Platzi",
+    "url": "https://platzi.com/new-home/",
+    "area": "Desarrollo web",
+    "studyType": "Bachelor",
+    "startDate": "2022-01-01",
+    "endDate": "null",
+    "score": ".",
+    "courses": [
+      "NULL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "Url",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
     },
-    "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Started the company"
-      ]
-    }],
-    "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }],
-    "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }],
-    "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }],
-    "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }],
-    "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
-    }],
-    "skills": [{
-      "name": "Web Development",
-      "level": "Master",
+    {
+      "name": "CSS",
+      "level": "Junior",
       "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
-    }],
-    "languages": [{
-      "language": "English",
+    },
+    {
+      "name": "JavaScript",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Git"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "0",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "0",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
       "fluency": "Native speaker"
-    }],
-    "interests": [{
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
-    "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }],
-    "projects": [{
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": ".",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
       "highlights": [
-        "Won award at AIHacks 2016"
+        "Elige tu propia aventura",
+        "En desarrollo"
       ],
-      "url": "https://project.com/"
-    }]
-  }
+      "url": "https://mars.codes"
+    }
+  ]
+}
